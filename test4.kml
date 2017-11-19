@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+        <Placemark id="feat_3">
+            <name>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</name>
+            <Snippet>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</Snippet>
+            <Point id="geom_1">
+                <coordinates>-123.0415279, 49.3341386, 0</coordinates>
+            </Point>
+        </Placemark>
+</kml>
