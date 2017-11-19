@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="feat_1">
         <Placemark id="feat_2">
-            <name>TypeBritish Columbia, CanadaCity-127.6476205, 53.7266683, 0Locations</name>
+            <name>Locations</name>
             <description>TypeBritish Columbia, CanadaCity-127.6476205, 53.7266683, 0Locations</description>
             <Point id="geom_0">
                 <coordinates>-127.6476205, 53.7266683, 0</coordinates>
