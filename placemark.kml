@@ -3,7 +3,7 @@
   <Placemark>
     <name>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</name>
     <description>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</description>
-    <Point>
+    <Point id = "geom_1">
       <coordinates>-122.087461,37.422069</coordinates>
     </Point>
   </Placemark>
