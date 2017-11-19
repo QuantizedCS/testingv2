@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="feat_1">
-        <Placemark id="feat_2">
-            <name>Type</name>
-            <description>TypeBritish Columbia, CanadaCity-127.6476205, 53.7266683, 0Locations</description>
-            <Point id="geom_0">
-                <coordinates>-127.6476205, 53.7266683, 0</coordinates>
-            </Point>
         </Placemark>
-        <Placemark id="feat_3">
             <name>BC Kids Hospital</name>
             <description>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</description>
-            <Point id="geom_1">
+            <Point>
                 <coordinates>-123.0415279, 49.3341386, 0</coordinates>
             </Point>
         </Placemark>
