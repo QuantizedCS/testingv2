@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Type</name>
+            <Point id="geom_0">
+                <coordinates>-127.6476205, 53.7266683, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_1">
+                <coordinates>-123.0415279, 49.3341386, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_2">
+                <coordinates>-123.1020354, 49.3386248, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_3">
+                <coordinates>-123.0237872, 49.3114325, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_4">
+                <coordinates>-123.2669626, 49.3573104, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_5">
+                <coordinates>-123.1732736, 49.2373513, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_6">
+                <coordinates>-123.1632964, 49.2637844, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_7">
+                <coordinates>-123.2058361, 49.2617935, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_8">
+                <coordinates>-123.1779136, 49.2580749, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_9">
+                <coordinates>-123.2100123, 49.2641004, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_10">
+                <coordinates>-123.2381418, 49.2590164, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_11">
+                <coordinates>-123.1848388, 49.2476911, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_12">
+                <coordinates>-123.1276878, 49.246332, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_13">
+                <coordinates>-122.8114273, 49.0529193, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_14">
+                <coordinates>-123.1126369, 49.2238379, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_15">
+                <coordinates>-123.1067115, 49.2426705, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_16">
+                <coordinates>-123.1584895, 49.26876559999999, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_17">
+                <coordinates>-123.0366581, 49.2589458, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_18">
+                <coordinates>-123.0994682, 49.2085219, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_19">
+                <coordinates>-123.066176, 49.268438, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_20">
+                <coordinates>-122.9783478, 49.19971289999999, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_21">
+                <coordinates>-123.0143229, 49.2609313, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_22">
+                <coordinates>-122.996225, 49.2608489, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_23">
+                <coordinates>-123.0031033, 49.281019, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_24">
+                <coordinates>-123.1827175, 49.1491585, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_25">
+                <coordinates>-123.1383519, 49.1793619, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_26">
+                <coordinates>-123.190291, 49.126427, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_27">
+                <coordinates>-122.8108889, 49.0614475, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_28">
+                <coordinates>-122.756889, 49.191466, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>BC Kids Hospital</name>
+            <Point id="geom_29">
+                <coordinates>-122.7933019, 49.2735552, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_30">
+                <coordinates>-123.4422969, 48.4562953, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_31">
+                <coordinates>-123.4996188, 48.44815029999999, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_32">
+                <coordinates>-123.5624164, 48.6578267, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_33">
+                <coordinates>-123.3619847, 48.4654231, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_34">
+                <coordinates>-123.3596193, 48.4396303, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_35">
+                <coordinates>-123.4482025, 48.5775709, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_36">
+                <coordinates>-123.334333, 48.4612551, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_37">
+                <coordinates>-122.7986124, 49.2796092, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_38">
+                <coordinates>-123.1550137, 49.2487742, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_39">
+                <coordinates>-123.1163371, 49.2734623, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_40">
+                <coordinates>-123.168297, 49.1897499, 0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Salvation Army Drop Bin</name>
+            <Point id="geom_41">
+                <coordinates>-122.6020304, 49.1406699, 0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
