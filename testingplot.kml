@@ -2,294 +2,294 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="feat_1">
         <Placemark id="feat_2">
-            <name>TypeBritish Columbia, CanadaCity-127.6476205, 53.7266683, 0Locations</name>
+            <name>Type</name>
             <description>TypeBritish Columbia, CanadaCity-127.6476205, 53.7266683, 0Locations</description>
             <Point id="geom_0">
                 <coordinates>-127.6476205, 53.7266683, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_3">
-            <name>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital1170 27th St, North Vancouver, BC V7J 1S1, CanadaVancouver-123.0415279, 49.3341386, 0Lynn Valley Safeway (Parking Lot)</description>
             <Point id="geom_1">
                 <coordinates>-123.0415279, 49.3341386, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_4">
-            <name>BC Kids Hospital3230 Connaught Crescent, North Vancouver, BC V7R 2V6, CanadaVancouver-123.1020354, 49.3386248, 0Edgemont Market (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital3230 Connaught Crescent, North Vancouver, BC V7R 2V6, CanadaVancouver-123.1020354, 49.3386248, 0Edgemont Market (Parking Lot)</description>
             <Point id="geom_2">
                 <coordinates>-123.1020354, 49.3386248, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_5">
-            <name>BC Kids Hospital333 Seymour Blvd, North Vancouver, BC V7J 2J4, CanadaVancouver-123.0237872, 49.3114325, 0Real Canadian Superstore (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital333 Seymour Blvd, North Vancouver, BC V7J 2J4, CanadaVancouver-123.0237872, 49.3114325, 0Real Canadian Superstore (Parking Lot)</description>
             <Point id="geom_3">
                 <coordinates>-123.0237872, 49.3114325, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_6">
-            <name>BC Kids Hospital5770 Marine Dr, West Vancouver, BC V7W, CanadaVancouver-123.2669626, 49.3573104, 0Thunder Bird Marina(Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital5770 Marine Dr, West Vancouver, BC V7W, CanadaVancouver-123.2669626, 49.3573104, 0Thunder Bird Marina(Parking Lot)</description>
             <Point id="geom_4">
                 <coordinates>-123.2669626, 49.3573104, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_7">
-            <name>BC Kids Hospital5425 Carnarvon St, Vancouver, BC V6N, CanadaVancouver-123.1732736, 49.2373513, 0Vancouver Fire Hall #21</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital5425 Carnarvon St, Vancouver, BC V6N, CanadaVancouver-123.1732736, 49.2373513, 0Vancouver Fire Hall #21</description>
             <Point id="geom_5">
                 <coordinates>-123.1732736, 49.2373513, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_8">
-            <name>BC Kids Hospital2518 W Broadway, Vancouver, BC V6K 2J5, CanadaVancouver-123.1632964, 49.2637844, 0White Spot Restaurant (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital2518 W Broadway, Vancouver, BC V6K 2J5, CanadaVancouver-123.1632964, 49.2637844, 0White Spot Restaurant (Parking Lot)</description>
             <Point id="geom_6">
                 <coordinates>-123.1632964, 49.2637844, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_9">
-            <name>BC Kids Hospital4396 W 12th Ave, Vancouver, BC V6R 2R1, CanadaVancouver-123.2058361, 49.2617935, 0Vancouver Fire Hall #19 (Trimble)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4396 W 12th Ave, Vancouver, BC V6R 2R1, CanadaVancouver-123.2058361, 49.2617935, 0Vancouver Fire Hall #19 (Trimble)</description>
             <Point id="geom_7">
                 <coordinates>-123.2058361, 49.2617935, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_10">
-            <name>BC Kids Hospital3190 Blenheim St, Vancouver, BC V6K 4J7, CanadaVancouver-123.1779136, 49.2580749, 0Al Mark Financial Services</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital3190 Blenheim St, Vancouver, BC V6K 4J7, CanadaVancouver-123.1779136, 49.2580749, 0Al Mark Financial Services</description>
             <Point id="geom_8">
                 <coordinates>-123.1779136, 49.2580749, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_11">
-            <name>BC Kids Hospital4545 W 10th Ave, Vancouver, BC V6R 2J2, CanadaVancouver-123.2100123, 49.2641004, 0Safeway (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4545 W 10th Ave, Vancouver, BC V6R 2J2, CanadaVancouver-123.2100123, 49.2641004, 0Safeway (Parking Lot)</description>
             <Point id="geom_9">
                 <coordinates>-123.2100123, 49.2641004, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_12">
-            <name>BC Kids Hospital2992 Wesbrook Mall, Vancouver, BC V6T, CanadaVancouver-123.2381418, 49.2590164, 0Vancouver Fire Hall #10</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital2992 Wesbrook Mall, Vancouver, BC V6T, CanadaVancouver-123.2381418, 49.2590164, 0Vancouver Fire Hall #10</description>
             <Point id="geom_10">
                 <coordinates>-123.2381418, 49.2590164, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_13">
-            <name>BC Kids Hospital4326 Dunbar St, Vancouver, BC V6S 2G3, CanadaVancouver-123.1848388, 49.2476911, 0Shoppers Drug Mart (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4326 Dunbar St, Vancouver, BC V6S 2G3, CanadaVancouver-123.1848388, 49.2476911, 0Shoppers Drug Mart (Parking Lot)</description>
             <Point id="geom_11">
                 <coordinates>-123.1848388, 49.2476911, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_14">
-            <name>BC Kids HospitalOak St &amp; W 28th Ave, Vancouver, BC V6H, CanadaVancouver-123.1276878, 49.246332, 0BC Kids Hospital - Oak Street Entrance</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids HospitalOak St &amp; W 28th Ave, Vancouver, BC V6H, CanadaVancouver-123.1276878, 49.246332, 0BC Kids Hospital - Oak Street Entrance</description>
             <Point id="geom_12">
                 <coordinates>-123.1276878, 49.246332, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_15">
-            <name>BC Kids Hospital28 Ave, Surrey, BC, CanadaVancouver-122.8114273, 49.0529193, 0BC Kids Hospital - Main Entrance</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital28 Ave, Surrey, BC, CanadaVancouver-122.8114273, 49.0529193, 0BC Kids Hospital - Main Entrance</description>
             <Point id="geom_13">
                 <coordinates>-122.8114273, 49.0529193, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_16">
-            <name>BC Kids Hospital6706 Alberta St, Vancouver, BC V5Y 2Z5, CanadaVancouver-123.1126369, 49.2238379, 0Langara Golf Club</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital6706 Alberta St, Vancouver, BC V5Y 2Z5, CanadaVancouver-123.1126369, 49.2238379, 0Langara Golf Club</description>
             <Point id="geom_14">
                 <coordinates>-123.1126369, 49.2238379, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_17">
-            <name>BC Kids Hospital4601 Ontario St, Vancouver, BC V5V 3H4, CanadaVancouver-123.1067115, 49.2426705, 0Nat Bailey Stadium (Parking Lot #3)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4601 Ontario St, Vancouver, BC V5V 3H4, CanadaVancouver-123.1067115, 49.2426705, 0Nat Bailey Stadium (Parking Lot #3)</description>
             <Point id="geom_15">
                 <coordinates>-123.1067115, 49.2426705, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_18">
-            <name>BC Kids Hospital2315 W 4th Ave, Vancouver, BC V6K, CanadaVancouver-123.1584895, 49.26876559999999, 0Safeway (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital2315 W 4th Ave, Vancouver, BC V6K, CanadaVancouver-123.1584895, 49.26876559999999, 0Safeway (Parking Lot)</description>
             <Point id="geom_16">
                 <coordinates>-123.1584895, 49.26876559999999, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_19">
-            <name>BC Kids Hospital3185 Grandview Hwy, Vancouver, BC V5M 2E9, CanadaVancouver-123.0366581, 49.2589458, 0Real Canadian Superstore (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital3185 Grandview Hwy, Vancouver, BC V5M 2E9, CanadaVancouver-123.0366581, 49.2589458, 0Real Canadian Superstore (Parking Lot)</description>
             <Point id="geom_17">
                 <coordinates>-123.0366581, 49.2589458, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_20">
-            <name>BC Kids Hospital350 SE Marine Dr, Vancouver, BC V5X 2S5, CanadaVancouver-123.0994682, 49.2085219, 0Real Canadian Superstore (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital350 SE Marine Dr, Vancouver, BC V5X 2S5, CanadaVancouver-123.0994682, 49.2085219, 0Real Canadian Superstore (Parking Lot)</description>
             <Point id="geom_18">
                 <coordinates>-123.0994682, 49.2085219, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_21">
-            <name>BC Kids Hospital1805 Victoria Dr, Vancouver, BC V5N 4K1, CanadaVancouver-123.066176, 49.268438, 0Vancouver Fire Hall #9</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital1805 Victoria Dr, Vancouver, BC V5N 4K1, CanadaVancouver-123.066176, 49.268438, 0Vancouver Fire Hall #9</description>
             <Point id="geom_19">
                 <coordinates>-123.066176, 49.268438, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_22">
-            <name>BC Kids Hospital5751 Marine Way, Burnaby, BC V5J 3J3, CanadaBurnaby-122.9783478, 49.19971289999999, 0Big Bend Crossing Shopping Mall (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital5751 Marine Way, Burnaby, BC V5J 3J3, CanadaBurnaby-122.9783478, 49.19971289999999, 0Big Bend Crossing Shopping Mall (Parking Lot)</description>
             <Point id="geom_20">
                 <coordinates>-122.9783478, 49.19971289999999, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_23">
-            <name>BC Kids Hospital2199 Gilmore Ave, Burnaby, BC V5C, CanadaBurnaby-123.0143229, 49.2609313, 0Gilmore Skytrain Station (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital2199 Gilmore Ave, Burnaby, BC V5C, CanadaBurnaby-123.0143229, 49.2609313, 0Gilmore Skytrain Station (Parking Lot)</description>
             <Point id="geom_21">
                 <coordinates>-123.0143229, 49.2609313, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_24">
-            <name>BC Kids Hospital4800 Still Creek Ave, Burnaby, BC V5C 5V1, CanadaBurnaby-122.996225, 49.2608489, 0Still Creek Recycling Centre</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4800 Still Creek Ave, Burnaby, BC V5C 5V1, CanadaBurnaby-122.996225, 49.2608489, 0Still Creek Recycling Centre</description>
             <Point id="geom_22">
                 <coordinates>-122.996225, 49.2608489, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_25">
-            <name>BC Kids HospitalHastings St &amp; Willingdon Ave, Burnaby, BC V5C, CanadaBurnaby-123.0031033, 49.281019, 0City Owned Vacant Land</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids HospitalHastings St &amp; Willingdon Ave, Burnaby, BC V5C, CanadaBurnaby-123.0031033, 49.281019, 0City Owned Vacant Land</description>
             <Point id="geom_23">
                 <coordinates>-123.0031033, 49.281019, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_26">
-            <name>BC Kids Hospital8671 No 1 Rd, Richmond, BC V7C 1V1, CanadaRichmond-123.1827175, 49.1491585, 0Seafair Mall (Parking Lot by A&amp;W)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital8671 No 1 Rd, Richmond, BC V7C 1V1, CanadaRichmond-123.1827175, 49.1491585, 0Seafair Mall (Parking Lot by A&amp;W)</description>
             <Point id="geom_24">
                 <coordinates>-123.1827175, 49.1491585, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_27">
-            <name>BC Kids Hospital4651 No 3 Rd, Richmond, BC V6X 2C4, CanadaRichmond-123.1383519, 49.1793619, 0Real Canadian Superstore (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital4651 No 3 Rd, Richmond, BC V6X 2C4, CanadaRichmond-123.1383519, 49.1793619, 0Real Canadian Superstore (Parking Lot)</description>
             <Point id="geom_25">
                 <coordinates>-123.1383519, 49.1793619, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_28">
-            <name>BC Kids HospitalChatham St &amp; Sixth Ave, Richmond, BC V7E, CanadaRichmond-123.190291, 49.126427, 0City Parking Lot</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids HospitalChatham St &amp; Sixth Ave, Richmond, BC V7E, CanadaRichmond-123.190291, 49.126427, 0City Parking Lot</description>
             <Point id="geom_26">
                 <coordinates>-123.190291, 49.126427, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_29">
-            <name>BC Kids Hospital3248 King George Blvd, Surrey, BC V4P 1A5, CanadaSurrey-122.8108889, 49.0614475, 0Choices Market</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital3248 King George Blvd, Surrey, BC V4P 1A5, CanadaSurrey-122.8108889, 49.0614475, 0Choices Market</description>
             <Point id="geom_27">
                 <coordinates>-122.8108889, 49.0614475, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_30">
-            <name>BC Kids Hospital16788 104 Ave, Surrey, BC V4N 1Z1, CanadaSurrey-122.756889, 49.191466, 0CO-OP Gas Bar</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital16788 104 Ave, Surrey, BC V4N 1Z1, CanadaSurrey-122.756889, 49.191466, 0CO-OP Gas Bar</description>
             <Point id="geom_28">
                 <coordinates>-122.756889, 49.191466, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_31">
-            <name>BC Kids Hospital3000 Lougheed Hwy, Coquitlam, BC V3B 1C5, CanadaCoquitlam-122.7933019, 49.2735552, 0Real Canadian Superstore (Parking Lot)</name>
+            <name>BC Kids Hospital</name>
             <description>BC Kids Hospital3000 Lougheed Hwy, Coquitlam, BC V3B 1C5, CanadaCoquitlam-122.7933019, 49.2735552, 0Real Canadian Superstore (Parking Lot)</description>
             <Point id="geom_29">
                 <coordinates>-122.7933019, 49.2735552, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_32">
-            <name>Salvation Army Drop Bin307 Island Hwy, Victoria, BC V9B 1G9, CanadaView Royal-123.4422969, 48.4562953, 0View Royal Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin307 Island Hwy, Victoria, BC V9B 1G9, CanadaView Royal-123.4422969, 48.4562953, 0View Royal Thrift Store</description>
             <Point id="geom_30">
                 <coordinates>-123.4422969, 48.4562953, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_33">
-            <name>Salvation Army Drop Bin777 Goldstream Ave, Victoria, BC V9B 2X4, CanadaLangford-123.4996188, 48.44815029999999, 0Langford Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin777 Goldstream Ave, Victoria, BC V9B 2X4, CanadaLangford-123.4996188, 48.44815029999999, 0Langford Thrift Store</description>
             <Point id="geom_31">
                 <coordinates>-123.4996188, 48.44815029999999, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_34">
-            <name>Salvation Army Drop Bin855 Shawnigan-Mill Bay Road, Mill Bay, BC V0R 2P2, CanadaMill Bay-123.5624164, 48.6578267, 0Mill Bay Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin855 Shawnigan-Mill Bay Road, Mill Bay, BC V0R 2P2, CanadaMill Bay-123.5624164, 48.6578267, 0Mill Bay Thrift Store</description>
             <Point id="geom_32">
                 <coordinates>-123.5624164, 48.6578267, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_35">
-            <name>Salvation Army Drop Bin3934 Quadra St, Victoria, BC V8X 1J5, CanadaVictoria-123.3619847, 48.4654231, 0Saanich Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin3934 Quadra St, Victoria, BC V8X 1J5, CanadaVictoria-123.3619847, 48.4654231, 0Saanich Thrift Store</description>
             <Point id="geom_33">
                 <coordinates>-123.3619847, 48.4654231, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_36">
-            <name>Salvation Army Drop Bin990 Hillside Ave, Victoria, BC V8T 1Z7, CanadaVictoria-123.3596193, 48.4396303, 0Hillside Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin990 Hillside Ave, Victoria, BC V8T 1Z7, CanadaVictoria-123.3596193, 48.4396303, 0Hillside Thrift Store</description>
             <Point id="geom_34">
                 <coordinates>-123.3596193, 48.4396303, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_37">
-            <name>Salvation Army Drop Bin7177 W Saanich Rd, Brentwood Bay, BC V8M 1P6, CanadaBrentwood Bay-123.4482025, 48.5775709, 0Brentwood Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin7177 W Saanich Rd, Brentwood Bay, BC V8M 1P6, CanadaBrentwood Bay-123.4482025, 48.5775709, 0Brentwood Thrift Store</description>
             <Point id="geom_35">
                 <coordinates>-123.4482025, 48.5775709, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_38">
-            <name>Salvation Army Drop Bin1551 Cedar Hill X Rd, Victoria, BC V8P 2P2, CanadaVictoria-123.334333, 48.4612551, 0Cedar Hill Thrift Store</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin1551 Cedar Hill X Rd, Victoria, BC V8P 2P2, CanadaVictoria-123.334333, 48.4612551, 0Cedar Hill Thrift Store</description>
             <Point id="geom_36">
                 <coordinates>-123.334333, 48.4612551, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_39">
-            <name>Salvation Army Drop Bin2929 Barnet Hwy, Coquitlam, BC V3B 0G2, CanadaCoquitlam-122.7986124, 49.2796092, 0Coquitlam Centre Shopping Mall</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin2929 Barnet Hwy, Coquitlam, BC V3B 0G2, CanadaCoquitlam-122.7986124, 49.2796092, 0Coquitlam Centre Shopping Mall</description>
             <Point id="geom_37">
                 <coordinates>-122.7986124, 49.2796092, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_40">
-            <name>Salvation Army Drop Bin4255 Arbutus St, Vancouver, BC V6L, CanadaVancouver-123.1550137, 49.2487742, 0Arbutus Shopping Centre</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin4255 Arbutus St, Vancouver, BC V6L, CanadaVancouver-123.1550137, 49.2487742, 0Arbutus Shopping Centre</description>
             <Point id="geom_38">
                 <coordinates>-123.1550137, 49.2487742, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_41">
-            <name>Salvation Army Drop Bin1033 Marinaside Crescent, Vancouver, BC V6Z 3A3, CanadaVancouver-123.1163371, 49.2734623, 0Quaywest Condo Corp.</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin1033 Marinaside Crescent, Vancouver, BC V6Z 3A3, CanadaVancouver-123.1163371, 49.2734623, 0Quaywest Condo Corp.</description>
             <Point id="geom_39">
                 <coordinates>-123.1163371, 49.2734623, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_42">
-            <name>Salvation Army Drop Bin4900 Miller Rd, Richmond, BC V7B 1K4, CanadaVancouver-123.168297, 49.1897499, 0Air Canada - Vancouver Intl Airport - Cargo</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin4900 Miller Rd, Richmond, BC V7B 1K4, CanadaVancouver-123.168297, 49.1897499, 0Air Canada - Vancouver Intl Airport - Cargo</description>
             <Point id="geom_40">
                 <coordinates>-123.168297, 49.1897499, 0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_43">
-            <name>Salvation Army Drop Bin7600 Glover Rd, Langley, BC V2Y 1Y1, CanadaLangley-122.6020304, 49.1406699, 0Trinity Western University</name>
+            <name>Salvation Army Drop Bin</name>
             <description>Salvation Army Drop Bin7600 Glover Rd, Langley, BC V2Y 1Y1, CanadaLangley-122.6020304, 49.1406699, 0Trinity Western University</description>
             <Point id="geom_41">
                 <coordinates>-122.6020304, 49.1406699, 0</coordinates>
